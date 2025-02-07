@@ -5,7 +5,14 @@
   "What We Do": {
     "url": "/what-we-do",
     "sub": {
-      "Services": { "url": "/services" },
+      "Services": {
+        "url": "/services",
+        "sub": {
+          "Consulting": { "url": "/consulting" },
+          "Training": { "url": "/training" },
+          "Development": { "url": "/development" }
+        }
+      },
       "Products": { "url": "/products" }
     }
   },
