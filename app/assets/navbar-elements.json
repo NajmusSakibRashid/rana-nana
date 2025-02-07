@@ -1,0 +1,20 @@
+{
+  "Home": { "url": "/", "sub": null },
+  "About": { "url": "/about", "sub": null },
+  "Contact": { "url": "/contact", "sub": null },
+  "What We Do": {
+    "url": "/what-we-do",
+    "sub": {
+      "Services": { "url": "/services" },
+      "Products": { "url": "/products" }
+    }
+  },
+  "Publications": {
+    "url": "/publications",
+    "sub": {
+      "Articles": { "url": "/articles" },
+      "Books": { "url": "/books" }
+    }
+  },
+  "Notice": { "url": "/notice", "sub": null }
+}
