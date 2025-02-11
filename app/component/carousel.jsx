@@ -14,7 +14,7 @@ const carousel = () => {
           className="carousel-item relative w-full flex justify-center bg-black"
           id={`slide${index}`}
         >
-          <Image src={image} className="h-screen" />
+          <Image src={image.default} className="h-screen" />
           <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a
               href={`#slide${index === 0 ? images.length - 1 : index - 1}`}
