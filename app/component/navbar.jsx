@@ -11,6 +11,17 @@ const navbar = () => {
         <div className="flex-1 hidden md:flex justify-end">
           {/* <a className="btn btn-ghost text-xl">daisyUI</a> */}
           {Object.entries(NavbarElements).map(([key, value], index) => {
+            if (!value.sub) {
+              return (
+                <a
+                  key={index}
+                  className="btn btn-ghost text-xl"
+                  href={value.url}
+                >
+                  {key}
+                </a>
+              );
+            }
             return (
               // <a key={index} className="btn btn-ghost text-xl" href={value.url}>
               //   {key}

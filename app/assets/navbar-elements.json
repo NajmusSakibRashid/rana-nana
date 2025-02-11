@@ -3,21 +3,17 @@
   "About": { "url": "/about", "sub": null },
   "Contact": { "url": "/contact", "sub": null },
   "What We Do": {
-    "url": "/what-we-do",
     "sub": {
-      "Services": {
-        "url": "/services",
-        "sub": {
-          "Consulting": { "url": "/consulting" },
-          "Training": { "url": "/training" },
-          "Development": { "url": "/development" }
-        }
-      },
-      "Products": { "url": "/products" }
+      "Child Education": { "url": "/child-education" },
+      "Skill Development": { "url": "/skill-development" },
+      "Water, Sanitation, and Hygiene": { "url": "/water-sanitation-hygiene" },
+      "Social Entrepreneurship": { "url": "/social-entrepreneursip" },
+      "Climate Change and Biodiversity": {
+        "url": "/climate-change-and-bio-diversity"
+      }
     }
   },
   "Publications": {
-    "url": "/publications",
     "sub": {
       "Articles": { "url": "/articles" },
       "Books": { "url": "/books" }

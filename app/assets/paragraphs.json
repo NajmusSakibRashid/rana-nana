@@ -1,0 +1,37 @@
+{
+  "": {
+    "Title": "Home"
+  },
+  "about": {
+    "Title": "About Us",
+    "About Us": "Bandhan is a non-political, non-profit, non-governmental development organisation founded in Bangladesh in 2024 that partners with the people living with inequality and poverty to create opportunities to realise human potential.",
+    "Mission": "Our mission is to uplift individuals and communities facing poverty, illiteracy, illness, and social inequity. Through impactful economic and social initiatives, we strive to create widespread, lasting change, empowering both women, children and men to unlock their full potential.",
+    "Vision": "A world where every individual, regardless of background, has equal opportunities to thrive, with communities free from poverty, illiteracy, disease, and social injustice."
+  },
+  "contact": {
+    "Title": "Contact Us",
+    "Address": "Purbo Jalashi",
+    "District": "Panchagar",
+    "Contact Number": "01713012666"
+  },
+  "child-education": {
+    "Title": "Child Education",
+    "Description": "Bandhan believes that every child has the right to a quality education. We work to ensure that children in rural and urban areas have access to quality education, regardless of their background or socio-economic status. Our programs focus on improving the quality of education, increasing access to education, and promoting lifelong learning."
+  },
+  "skill-development": {
+    "Title": "Skill Development",
+    "Description": "Bandhan is committed to empowering individuals with the skills they need to succeed in the modern economy. Our skill development programs provide training in a wide range of areas, including agriculture, technology, and entrepreneurship. By equipping individuals with the skills they need to thrive, we help them build a better future for themselves and their families."
+  },
+  "water-sanitation-hygiene": {
+    "Title": "Water, Sanitation, and Hygiene",
+    "Description": "Bandhan is dedicated to improving access to clean water, sanitation, and hygiene for communities in need. Our programs focus on providing clean water sources, improving sanitation facilities, and promoting good hygiene practices. By addressing these basic needs, we help communities improve their health, well-being, and quality of life."
+  },
+  "social-entrepreneursip": {
+    "Title": "Social Entrepreneurship",
+    "Description": "Bandhan supports social entrepreneurs who are working to create positive change in their communities. We provide training, mentorship, and financial support to help social entrepreneurs develop their ideas and bring them to life. By supporting social entrepreneurship, we help individuals create sustainable solutions to social and environmental challenges."
+  },
+  "climate-change-and-bio-diversity": {
+    "Title": "Climate Change and Biodiversity",
+    "Description": "Bandhan is committed to addressing the urgent challenges of climate change and biodiversity loss. Our programs focus on promoting sustainable agriculture, protecting natural habitats, and raising awareness about the importance of environmental conservation. By working to protect our planet, we help create a more sustainable future for all."
+  }
+}

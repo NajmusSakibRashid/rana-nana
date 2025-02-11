@@ -5,7 +5,7 @@ import Bandhan from "./assets/bandhan.jpeg";
 export default function Home() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Image src={Bandhan} alt="Bnadhan" className="w-full" />
     </>
   );
