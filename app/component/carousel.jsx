@@ -11,10 +11,15 @@ const carousel = () => {
       {images.map((image, index) => (
         <div
           key={index}
-          className="carousel-item relative w-full flex justify-center bg-black"
+          className="carousel-item relative w-full flex justify-center align-middle"
           id={`slide${index}`}
+          alt={`slide${index}`}
         >
-          <Image src={image.default} className="h-screen" />
+          <Image
+            src={image.default}
+            className="h-screen w-auto max-w-[100vw] object-contain"
+            alt="carousel"
+          />
           <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a
               href={`#slide${index === 0 ? images.length - 1 : index - 1}`}
